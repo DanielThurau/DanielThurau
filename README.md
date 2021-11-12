@@ -17,8 +17,8 @@ I'm a Software Engineer in San Francisco building all sorts of stuff. Focusing o
   
 - 💻 [ColorSplash](https://thurau.io/colorsplash/)
 - 🎨 [Smudge Art Box](https://www.smudgeartbox.com/)
-- [Dev.to - DanielThurau](https://dev.to/danielthurau)
-- [Substack - DanielThurau](https://danielthurau.substack.com/)
+- <img src="./assets/devdotto.svg" widwth="16" height="16"/> [Dev.to - DanielThurau](https://dev.to/danielthurau)
+- <img src="./assets/substack.svg" widwth="16" height="16"/> [Substack - DanielThurau](https://danielthurau.substack.com/)
   
  
 
@@ -26,13 +26,12 @@ I'm a Software Engineer in San Francisco building all sorts of stuff. Focusing o
 
 ---
 
-- Personal Website - [thurau.io](https://thurau.io)
-- Twitter - [@DanielNThurau](https://twitter.com/DanielNThurau)
-- LinkedIn - [Daniel Thurau](https://www.linkedin.com/in/danielthurau/)
-- Email - [Daniel.n.thurau@gmail.com](mailto:daniel.n.thurau@gmail.com)
+- ⚙️ Personal Website - [thurau.io](https://thurau.io)
+- <img src="./assets/twitter.svg" width="16" height="16"/> Twitter - [@DanielNThurau](https://twitter.com/DanielNThurau)
+- <img src="./assets/linkedin.svg" widwth="16" height="16"/> LinkedIn - [Daniel Thurau](https://www.linkedin.com/in/danielthurau/)
+- <img src="./assets/gmail.svg" widwth="16" height="16"/> Email - [Daniel.n.thurau@gmail.com](mailto:daniel.n.thurau@gmail.com)
 
   
- 
  ### Stats
  
  ---
