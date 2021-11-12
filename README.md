@@ -1,3 +1,6 @@
+[![Daniel's GitHub Banner](./assets/banner.png)](https://thurau.io)
+
+
 # 🤖 Welcome 🤖
 
 
