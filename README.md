@@ -1,6 +1,3 @@
-[![Daniel's GitHub Banner](./assets/banner.png)](https://thurau.io)
-
-
 # 🤖 Welcome 🤖
 
 
@@ -34,12 +31,3 @@ I'm a Software Engineer in San Francisco building all sorts of stuff. Focusing o
 - <img src="./assets/twitter.svg" width="16" height="16"/> Twitter - [@DanielNThurau](https://twitter.com/DanielNThurau)
 - <img src="./assets/linkedin.svg" widwth="16" height="16"/> LinkedIn - [Daniel Thurau](https://www.linkedin.com/in/danielthurau/)
 - <img src="./assets/gmail.svg" widwth="16" height="16"/> Email - [Daniel.n.thurau@gmail.com](mailto:daniel.n.thurau@gmail.com)
-
-  
- ### Stats
- 
- ---
- 
- [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielthurau)](https://github.com/danielthurau/github-readme-stats)
-
- 
