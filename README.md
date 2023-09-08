@@ -10,19 +10,6 @@
 
 I'm a Software Engineer in San Francisco building all sorts of stuff. Focusing on web3 at DFinity to help build out the Internet Computer. Working on open governance for the Internet Computer via the Nervous Network System.  Previous Amazonian. Hit me up if you've got a cool project that needs help. 
 
- 
-### Stuff I'm Working On:
-
----
-  
-- 💻 [Internet Computer - NNS](https://github.com/dfinity/ic/tree/master/rs/nns)
-- 💻 [Internet Computer - SNS](https://github.com/dfinity/ic/tree/master/rs/sns)
-- 💻 [ColorSplash](https://thurau.io/colorsplash/)
-- 💻 [Simpletory](https://github.com/DanielThurau/simpletory)
-- 🎨 [Smudge Art Box](https://www.smudgeartbox.com/)
-
- 
-
 ### Get In Touch
 
 ---
