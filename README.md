@@ -14,7 +14,7 @@ I'm a Software Engineer in San Francisco building all sorts of stuff. Focusing o
 
 ---
 
-- ⚙️ Personal Website - [thurau.io](https://thurau.io)
+- ⚙️ Personal Website - [thurau.io](https://www.thurau.io)
 - <img src="./assets/twitter.svg" width="16" height="16"/> Twitter - [@DanielNThurau](https://twitter.com/DanielNThurau)
 - <img src="./assets/linkedin.svg" widwth="16" height="16"/> LinkedIn - [Daniel Thurau](https://www.linkedin.com/in/danielthurau/)
 - <img src="./assets/gmail.svg" widwth="16" height="16"/> Email - [Daniel.n.thurau@gmail.com](mailto:daniel.n.thurau@gmail.com)
