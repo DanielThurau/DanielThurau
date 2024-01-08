@@ -8,7 +8,7 @@
 [![GitHub DanielThurau](https://img.shields.io/github/followers/DanielThurau?label=follow&style=social)](https://github.com/DanielThurau)
 
 
-I'm a Software Engineer in San Francisco building all sorts of stuff. Focusing on web3 at DFinity to help build out the Internet Computer. Working on open governance for the Internet Computer via the Nervous Network System.  Previous Amazonian. Hit me up if you've got a cool project that needs help. 
+I'm a Software Engineer in San Francisco building all sorts of stuff. Previous Amazonian. Hit me up if you've got a cool project that needs help. 
 
 ### Get In Touch
 
