@@ -8,7 +8,7 @@
 [![GitHub DanielThurau](https://img.shields.io/github/followers/DanielThurau?label=follow&style=social)](https://github.com/DanielThurau)
 
 
-I'm a Software Engineer in San Francisco building all sorts of stuff. Previous Amazonian. Hit me up if you've got a cool project that needs help. 
+I'm a Software Engineer in San Francisco building all sorts of stuff. Previously at DFINITY and Amazon. Hit me up if you've got a cool project that needs help. 
 
 ### Get In Touch
 
